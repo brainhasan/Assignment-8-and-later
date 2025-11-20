@@ -1,5 +1,6 @@
 LDD_VERSION = 'fbca140171bcbd536a1653d2ef032edbfd8c5f03'
-LDD_SITE = 'git@github.com:brainhasan/aesd-assignment-7.git'
+LDD_SITE = 'git@github.com:brainhasan/Assignment-8-and-later.git'
+
 LDD_SITE_METHOD = git
 LDD_GIT_SUBMODULES = YES
 
