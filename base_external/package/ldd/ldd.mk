@@ -1,5 +1,5 @@
-LDD_VERSION = '55b3b5bd452068b7c125d204be5a3641e34c201b'
-LDD_SITE = 'git@github.com:aquini/aesd-assignment-7-aquini.git'
+LDD_VERSION = 'fbca140171bcbd536a1653d2ef032edbfd8c5f03'
+LDD_SITE = 'git@github.com:brainhasan/aesd-assignment-7.git'
 LDD_SITE_METHOD = git
 LDD_GIT_SUBMODULES = YES
 
